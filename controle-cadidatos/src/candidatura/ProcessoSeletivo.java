@@ -51,10 +51,6 @@ public class ProcessoSeletivo {
 	}
 	
 	
-	
-	
-	
-	
 	static void selecaoCandidatos() {
 		String [] candidatos = {"FELIPE","MARCIA","JULIA","PAULO","AUGUSTO","MONICA","MIRELA","DANIELA","JORGE"};
 		int candidatosSelecionados = 0;
